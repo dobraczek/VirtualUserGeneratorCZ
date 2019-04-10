@@ -1,7 +1,7 @@
 <?php
 
 /**
- * User Virtual Generator
+ * User Virtual Generator CZ
  * @author Martin Dobry
  * @link http://webscript.cz
  * @version 1.0
@@ -37,7 +37,7 @@ $User = $UserGenerator->getUser();
     
     <?php
     foreach($User as $key => $value)
-        echo '<strong>'.$key.'</strong>: '.$value.'<br />';
+        echo '<strong>['.$key.']</strong>: '.$value.'<br />';
     ?>
 
 </body>
