@@ -1,6 +1,6 @@
 # VirtualUserGeneratorCZ
 
-Generátor náhodných lidí ČR - slouží pro vygenerování testovacích dat.
+Generátor náhodných lidí ČR pro vygenerování testovacích dat.
 
 Pro správnou funkci je potřeba
 1. Vytvořit složku Ruian
