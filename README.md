@@ -9,4 +9,4 @@ Generátor náhodných lidí ČR.
 
 
 Náhled generátoru
-- http://webscript.cz/VirtualUserGeneratorCZ/
+- https://webscript.cz/VirtualUserGeneratorCZ/
